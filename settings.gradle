@@ -1,0 +1,2 @@
+include ':app', ':androidlazyload'
+rootProject.name='MyLivnTask'
